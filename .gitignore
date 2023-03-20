@@ -1,0 +1,9 @@
+docs/.vault-stats
+docs/.vscode/settings.json
+docs/liquid/*
+docs/src/.nograph
+docs/templates/*
+run_o.bat
+run_o.yml
+run.bat
+site/
