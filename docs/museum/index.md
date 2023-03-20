@@ -25,7 +25,7 @@ https://www.tnm.jp/modules/r_free_page/index.php?id=162&lang=en
 
 ## 开馆时间
 
-+   09:30～03:30 白城标准时间[^30time]
++   09:30～30:30 白城标准时间[^30time]
 +   特展的开馆时间请另行确认
 +   入馆截止至闭馆前 30 分钟
 
