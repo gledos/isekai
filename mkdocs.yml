@@ -59,7 +59,11 @@ nav:
   - Page test 1: museum/test-1.md
 - 异世界维基:
   - wiki/index.md
-  - Page test 1: wiki/test-1.md
+  - 分类索引: wiki/test-1.md
+  - 特色内容: wiki/test-1.md
+  - 新闻动态: wiki/test-1.md
+  - 最近更改: wiki/test-1.md
+  - 随机条目: wiki/test-1.md
 - 异世界论坛:
   - bbs/index.md
   - Page test 1: bbs/test-1.md
